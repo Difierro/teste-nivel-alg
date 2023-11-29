@@ -1,0 +1,1 @@
+a função está mutiplicando os elementos da matriz, e depois ela realiza somas e subtrações com o resultado das mutiplicações. A saida "de" devera ser -5, pois, apos descobrir os valores das multplicações, temos 0 - 4 + 0 - 1 - 0 - 0 = -5

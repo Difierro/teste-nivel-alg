@@ -1,0 +1,7 @@
+os erros de compilação seriam em 
+1. 'int N_ant , N_prox , N , N_atual', pois não está finalizando com o ponto-virgula ';'.
+2. na atribução 'N_ant = N_atual =1;', pois não da para atribuir dessa forma. a correta seria:
+    'N_ant =1;'
+    'N_atual = N_ant;'.
+3. no laco de repetição 'for', pois ele não está sendo fwchado com a chave '}'.
+4. em 'return' não foi atribuído nada a ser retornado, alem de não ter sido finalizado com ponto-virgula.'

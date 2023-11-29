@@ -1,0 +1,1 @@
+a saída será de 2 e 200, já que na primeira 'rodada' i será igual a 2 (2*2) e na segunda i será igual a 100, uma vez que está recebendo passo i*=100 (2*100)
